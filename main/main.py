@@ -21,8 +21,8 @@ socket_list = []
 class SQL:
     # 设置数据库信息
     SQL_IP = '202.182.125.24'
-    SQL_PORT = 20027
-    SQL_USERNAME = 'chat2024'
+    SQL_PORT = 12942
+    SQL_USERNAME = 'chat_2024'
     SQL_PASSWD = 'chat_2024'
 
     def __init__(self):
